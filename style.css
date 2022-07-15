@@ -13,19 +13,19 @@ body {
 }
 /* Small */
 @media (min-width: 768px) {
-    .repos-comtainer {
+    .repos-container {
         width: 750px;
     }
 }
 /* Medium */
 @media (min-width: 992px) {
-    .repos-comtainer {
+    .repos-container {
         width: 970px;
     }
 }
 /* Large*/
 @media (min-width: 1200px) {
-    .repos-comtainer {
+    .repos-container {
         width: 1170px;
     }
 }
