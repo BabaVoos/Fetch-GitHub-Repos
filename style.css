@@ -59,7 +59,11 @@ body {
     font-weight: bold;
     cursor: pointer;
 }
-
+@media (max-width: 380px) {
+    .get-button {
+        font-size: 14px;
+    }
+}
 .repos-container .show-data {
     padding: 20px;
     background-color: #e0e0e0;
