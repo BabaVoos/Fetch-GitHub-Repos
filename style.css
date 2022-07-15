@@ -4,11 +4,11 @@
 
 body {
     font-family: tahoma, Arial;
+    background-color: #333;
 }
 
 .repos-container {
-    /* width: 800px; */
-    background-color: #f6f6f6f6;
+    width: 600px; 
     margin: auto;
 }
 /* Small */
@@ -33,7 +33,7 @@ body {
 .repos-container .get-repos {
     padding: 20px;
     display: flex;
-    background-color: #eee;
+    background-color: black;
 }
 
 .repos-container .get-repos input {
@@ -66,12 +66,13 @@ body {
 }
 .repos-container .show-data {
     padding: 20px;
-    background-color: #e0e0e0;
+    background-color: #231f23;
 } 
 
 .repos-container .show-data .repo-box {
-    background-color: #fff;
+    background-color: black;
     padding: 15px;
+    color: white;
 }
 
 .repos-container .show-data .repo-box:not(:last-child){
