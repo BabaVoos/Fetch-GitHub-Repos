@@ -8,24 +8,24 @@ body {
 }
 
 .repos-container {
-    width: 600px; 
+ 
     margin: auto;
 }
 /* Small */
 @media (min-width: 768px) {
-    .repos-container {
+    .repos-comtainer {
         width: 750px;
     }
 }
 /* Medium */
 @media (min-width: 992px) {
-    .repos-container {
+    .repos-comtainer {
         width: 970px;
     }
 }
 /* Large*/
 @media (min-width: 1200px) {
-    .repos-container {
+    .repos-comtainer {
         width: 1170px;
     }
 }
